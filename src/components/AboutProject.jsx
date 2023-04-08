@@ -99,7 +99,7 @@ background-color: ${({ theme }) => theme.colors.bg};
     font-size: 1.4rem;
     &:hover {
       background-color: rgb(98 84 243);
-      color: #fff;
+      color: #fffff;
     }
   }
 }
