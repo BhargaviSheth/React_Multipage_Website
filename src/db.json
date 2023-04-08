@@ -1,0 +1,41 @@
+{
+   "service": [
+    {
+        "id":1,
+        "title":"Web Development",
+        "image":"https://www.globalmediainsight.com/asset/images/website-development.jpg",
+        "description":"Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications."
+    },
+    {
+        "id":2,
+        "title":"App Development",
+        "image":"https://riseuplabs.com/wp-content/uploads/2021/07/mobile-application-development-guidelines-riseuplabs.jpg",
+        "description":"Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications."
+    },
+    {
+        "id":3,
+        "title":"Graphic Design",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhYqMtpORkLc2K4HAB8pn-Y5k9cvtlv3f4KA6PWXIUGHbhoxGJMGa99eRiYvcDtAltz8&usqp=CAU",
+        "description":"Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications."
+    },
+    {
+        "id":4,
+        "title":"System Design",
+        "image":"https://logicmojo.com/assets/dist/new_pages/images/sysdesign_img.png",
+        "description":"Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications."
+    },
+    {
+        "id":5,
+        "title":"Data Science",
+        "image":"https://bernardmarr.com/wp-content/uploads/2022/11/The-Top-5-Data-Science-And-Analytics-Trends-In-2023.jpg",
+        "description":"Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications."
+    },
+    {
+        "id":6,
+        "title":"Artificial Intelligence",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-B-OCN-UknYnkl_CyZpyj8TVv5aSQDIULUw2qXcFr4dq_uHcyGmWClesmt51jFzA-Q0&usqp=CAU",
+        "description":"Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications."
+    }
+    
+]
+}
